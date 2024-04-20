@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, nice to see you 👋
 
-<!--
-**muzairaslam/muzairaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
 
-Here are some ideas to get you started:
+Entrepreneur and Data Scientist who gets excited about data analysis and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fullstack Python and R developer with a Bachelors's Degree in Economics and Mathematics and multiple years of experience in bringing Data Science to the Supply chain, Public health and Non Profit Organizations.
+
+My vision is to become an expert Python, R and Shiny developer and collaborate with data analytics teams.
+
+Favorite things to do: web application development, building machine learning and ETL pipelines, learning data engineering technologies, mentoring Data Scientists and Analysts for their career paths, and enabling organizations to leverage their data in innovative ways.
+
+Company owner at:
+
+▪️ Stat Devs - https://www.statdevs.com
+
+### Some stats
+
+<a href="https://github.com/muzairaslam/github-stats">
+
+![](https://github.com/muzairaslam/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/muzairaslam/github-stats/blob/master/generated/languages.svg)
+
+</a>
