@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Aslam</h1>
 <h3 align="center">Passionate Data Scientist who gets excited about Data, Programming and Analytics</h3>
 
-Fullstack Python and R developer with a Bachelors's Degree in Economics and Mathematics and multiple years of experience in bringing Data Science to the Supply Chain, Public Health and Non Profit Organizations.
+Python and R developer with a Bachelors's Degree in Economics and Mathematics and multiple years of experience in bringing Data Science to the Supply Chain, Public Health and Non Profit Organizations.
 
 My vision is to become an expert Python, R and Shiny developer and collaborate with high performance teams on Machine Learning and Data Science solutions.
 
