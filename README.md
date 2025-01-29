@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzair Aslam</h1>
-<h3 align="center">Passionate Data Scientist who gets excited about Data, Programming and Analytics</h3>
+<h3 align="center">Passionate Data Engineer who gets excited about Data, Programming and Analytics</h3>
 
 Python and R developer with a Bachelors's Degree in Economics and Mathematics and multiple years of experience in bringing Data Science to the Supply Chain, Public Health and Non Profit Organizations.
 
