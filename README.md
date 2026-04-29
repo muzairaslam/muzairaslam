@@ -27,6 +27,6 @@ Company owner at:
 <h3 align="left">Some stats</h3>
 
 <p align="left">
-<img src="https://github.com/muzairaslam/github-stats/blob/master/generated/overview.svg" width="48%" />
-<img src="https://github.com/muzairaslam/github-stats/blob/master/generated/languages.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/muzairaslam/github-stats/master/generated/overview.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/muzairaslam/github-stats/master/generated/languages.svg" width="48%" />
 </p>
